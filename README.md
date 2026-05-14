@@ -1,7 +1,7 @@
 # <h1 align="center">Hi 👋, I'm Neelesh Agashe</h1>
 
 <h3 align="center">
-🚀 Full Stack & React Native Developer | Data Science Enthusiast | Building CineBluish
+🚀 Full Stack Developer | React Native Explorer | Data Science Enthusiast
 </h3>
 
 <p align="center">
@@ -12,32 +12,34 @@
 
 # 💫 About Me
 
-🎓 Computer Science Engineer (2021–2025)
-🏫 Bhilai Institute of Technology, Raipur
+🎓 Computer Science Engineer (2021–2025) <br>
+🏫 Bhilai Institute of Technology, Raipur <br>
+📍 Raipur, Chhattisgarh, India
 
 💡 Passionate about:
 
 * Full Stack Development
-* React Native Apps
+* React Native Applications
 * Data Science & AI
 * Product Building
 * UI/UX Experiences
 
 📱 Currently Building:
 
-### 🎬 CineBluish
+## 🎬 CineBluish
 
-A premium OTT-style movie streaming application inspired by modern entertainment platforms.
+A premium OTT-style streaming application inspired by modern entertainment platforms.
 
 ✨ Features:
 
-* Dynamic Movie Browsing
-* Search Functionality
-* Watchlist System
-* Movie Detail Screens
-* Video Player Integration
-* AsyncStorage Support
-* Modern OTT UI
+* Trending & Popular Movies
+* Dynamic Movie Detail Pages
+* Smart Search Functionality
+* Local Watchlist Storage
+* Video Player Screen
+* Download Section
+* Responsive Mobile UI
+* TMDB API Integration
 
 ---
 
@@ -57,59 +59,43 @@ A premium OTT-style movie streaming application inspired by modern entertainment
 ✔ Machine Learning
 ✔ Pandas & NumPy
 ✔ Scikit-Learn
-✔ Data Analysis
 ✔ SQL Analytics
 ✔ Dashboard Development
+✔ Data Visualization
 
 ---
 
 # 📌 Featured Projects
 
-# 🎬 CineBluish OTT Platform
+## 🎬 CineBluish OTT Platform
 
-A modern OTT-style streaming application built using **React Native + TMDB API** with a premium cinematic UI experience.
-
-### ✨ Key Features
-
-* Trending & Popular Movies
-* Dynamic Movie Detail Pages
-* Smart Search Functionality
-* Local Watchlist Storage
-* Video Player Screen
-* Download Section
-* Responsive Mobile UI
-* API Integration with TMDB
+A modern OTT-style movie streaming application built using React Native and TMDB API.
 
 ### 🛠 Tech Stack
 
 `React Native` `Expo` `JavaScript` `TMDB API` `AsyncStorage`
 
+🔗 Repository:
+https://github.com/Neelesh3
+
 ---
 
-# 🌐 Personal Portfolio Website
+## 🌐 Personal Portfolio Website
 
-A modern developer portfolio website showcasing projects, skills, achievements, and technical journey.
-
-### ✨ Features
-
-* Responsive Design
-* Animated UI Components
-* Project Showcase
-* Resume Section
-* Contact Integration
-* Smooth Navigation Experience
+A modern portfolio website showcasing projects, technical skills, and development journey.
 
 ### 🛠 Tech Stack
 
 `React` `JavaScript` `CSS` `GitHub Pages`
 
+🔗 Repository:
+https://github.com/Neelesh3
+
 ---
 
-# 💳 Credit Card Fraud Detection System
+## 💳 Credit Card Fraud Detection System
 
-🔹 Built a Logistic Regression model achieving **87% accuracy**
-🔹 Used Pandas + SMOTE for class balancing
-🔹 Reduced false positives for real-world banking scenarios
+Built a Logistic Regression model achieving **87% accuracy** for fraud detection.
 
 ### 🛠 Tech Stack
 
@@ -117,11 +103,9 @@ A modern developer portfolio website showcasing projects, skills, achievements, 
 
 ---
 
-# 📊 Student Performance Analytics Dashboard
+## 📊 Student Performance Analytics Dashboard
 
-🔹 Developed an end-to-end dashboard using Streamlit
-🔹 Achieved **96% prediction accuracy** using Random Forest
-🔹 Integrated SQL backend for persistent data storage
+Developed an analytics dashboard achieving **96% prediction accuracy** using Random Forest.
 
 ### 🛠 Tech Stack
 
@@ -132,9 +116,9 @@ A modern developer portfolio website showcasing projects, skills, achievements, 
 # 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Neelesh3&show_icons=true&theme=tokyonight&hide_border=true" height="180em"/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neelesh3&layout=compact&theme=tokyonight&hide_border=true" height="180em"/>
 </p>
 
 ---
@@ -142,7 +126,7 @@ A modern developer portfolio website showcasing projects, skills, achievements, 
 # 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=Neelesh3&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -167,7 +151,7 @@ A modern developer portfolio website showcasing projects, skills, achievements, 
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="neeleshkumaragashe@gmail.com">
+<a href="mailto:neeleshkumaragashe@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
