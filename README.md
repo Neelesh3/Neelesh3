@@ -159,7 +159,7 @@ A modern developer portfolio website showcasing projects, skills, achievements, 
 
 <p align="center">
 
-<a href="https://www.linkedin.com/in/neelesh-kumar-agashe-284313247/">
+<a href="https://linkedin.com/in/neelesh-kumar-agashe">
   <img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
@@ -167,7 +167,7 @@ A modern developer portfolio website showcasing projects, skills, achievements, 
   <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="mailto:neeleshkumaragashe@gmail.com">
+<a href="neeleshkumaragashe@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="50"/>
 </a>
 
